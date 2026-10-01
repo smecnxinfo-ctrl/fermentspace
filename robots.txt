@@ -1,0 +1,18 @@
+# robots.txt for fermentspace.com
+# Generated for Ferment Space Wellness Club, Chiang Mai
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.fermentspace.com/sitemap.xml
+
+# Block irrelevant crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
